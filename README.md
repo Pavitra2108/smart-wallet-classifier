@@ -23,4 +23,6 @@ Feature Extraction: TF-IDF vectorization with 300 most important terms
 Vocabulary Building: Include both single words and word pairs
 Stop Word Removal: Filter common English words
 
+## Model Selection
+Naive Bayes was selected as the final model
 
