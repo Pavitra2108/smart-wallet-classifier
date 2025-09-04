@@ -24,7 +24,7 @@ CATEGORY_COLORS = {
 
 @st.cache_resource
 def load_ai_model():
-    model_path = "wallet_ai/transaction_classifier.pkl"
+    model_path = "smart-wallet-app/wallet_ai/transaction_classifier.pkl"
     
     try:
         if not os.path.exists(model_path):
@@ -272,3 +272,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
