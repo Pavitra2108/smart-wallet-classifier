@@ -16,10 +16,10 @@ Mock transaction dataset generated using AI with 5 fields, `amount`, `merchant`,
 ## Data Preprocessing Approach
 The preprocessing pipeline focuses entirely on text-based inputs, transaction descriptions contain the most important information:
 
-Text Cleaning: Convert to lowercase, remove punctuation, standardize whitespace
-Feature Extraction: TF-IDF vectorization with 300 most important terms
-Vocabulary Building: Include both single words and word pairs
-Stop Word Removal: Filter common English words
+- Text Cleaning: Convert to lowercase, remove punctuation, standardize whitespace
+- Feature Extraction: TF-IDF vectorization with 300 most important terms
+- Vocabulary Building: Include both single words and word pairs
+- Stop Word Removal: Filter common English words
 
 ## Model Selection
 Naive Bayes was selected as the final model. Naive Bayes was chosen for transaction classification because, it excels at text classification tasks due to its probabilistic approach to word patterns, making it ideal for analyzing transaction descriptions. Second, it performs efficiently with smaller datasets.
@@ -41,19 +41,19 @@ Naive Bayes was selected as the final model. Naive Bayes was chosen for transact
 ## Performance Evaluation
 The model demonstrates exceptional performance across all metrics and achieved an overall accuracy: 99.4%
 
-# Setup and Usage Instructions
-1. Local Development
-# Clone the repository
+# Setup and Usage Instruction
+## Local Development
+**Clone the repository**
 git clone https://github.com/Pavitra2108/smart-wallet-classifier.git
 cd smart-wallet-app
 
-# Install dependencies
+**Install dependencies**
 pip install -r requirements.txt
 
-# Run the application
+**Run the application**
 streamlit run smart-wallet-app/app.py
 
-2. Application Usage
+## Application Usage
 - Enter transaction details in the form input
 - Click "Classify Transaction" for category prediction
 - View predicted category with confidence percentage
@@ -64,4 +64,4 @@ streamlit run smart-wallet-app/app.py
   <img width="1810" height="858" alt="image" src="https://github.com/user-attachments/assets/313ce2f9-b023-41de-b07c-09985b110167" />
 
 # Reflection
-
+To scale for multiple users, the system would need a database to replace in-memory storage and an API architecture to handle concurrent requests. For bank integration, security becomes critical, requiring encryption, and compliance with financial regulations. The biggest technical challenge would be maintaining fast response times under high transaction volumes, likely requiring model caching and load balancing.
