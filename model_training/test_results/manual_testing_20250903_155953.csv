@@ -1,0 +1,11 @@
+description,predicted,confidence,feedback,actual,timestamp
+Morning coffee at local cafe,Food,0.9590562971386456,correct,Food,2025-09-03 15:59:20
+Taxi ride to the airport,Transport,0.9548889488044227,correct,Transport,2025-09-03 15:59:23
+Netflix monthly subscription fee,Subscription,0.5805138233618771,correct,Subscription,2025-09-03 15:59:28
+Weekly grocery shopping,Transport,0.5050554763729832,wrong,Shopping,2025-09-03 15:59:39
+Internet bill payment,Utilities,0.939025921541505,correct,Utilities,2025-09-03 15:59:42
+Gas station refuel,Utilities,0.5070118237824018,correct,Utilities,2025-09-03 15:59:46
+Amazon book purchase,Shopping,0.5442407756042642,correct,Shopping,2025-09-03 15:59:48
+Spotify premium monthly,Subscription,0.7397294983517222,correct,Subscription,2025-09-03 15:59:51
+Lunch at McDonald's,Food,0.9015914997891504,correct,Food,2025-09-03 15:59:52
+Bus pass for commuting,Transport,0.9750914285499493,correct,Transport,2025-09-03 15:59:53

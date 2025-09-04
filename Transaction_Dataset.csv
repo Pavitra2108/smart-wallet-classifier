@@ -1,0 +1,1723 @@
+Amount,Merchant,Timestamp,Description,Category
+25.5,Grocery Store A,2023-09-01T10:30:00Z,Weekly groceries and produce,Food
+12,Uber,2023-09-01T11:45:00Z,Ride from home to office,Transport
+15.99,Netflix,2023-09-02T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2023-09-02T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2023-09-03T09:10:00Z,Utility bill for September,Utilities
+4.5,Coffee Shop C,2023-09-03T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2023-09-04T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2023-09-04T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2023-09-05T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2023-09-06T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2023-09-06T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2023-09-07T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2023-09-07T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2023-09-08T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2023-09-08T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2023-09-09T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2023-09-10T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2023-09-10T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2023-09-11T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2023-09-11T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2023-09-12T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2023-09-13T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2023-09-13T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2023-09-14T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2023-09-14T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2023-09-15T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2023-09-15T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2023-09-16T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2023-09-16T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2023-09-17T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2023-09-18T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2023-09-18T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2023-09-19T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2023-09-19T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2023-09-20T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2023-09-21T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2023-09-21T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2023-09-22T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2023-09-22T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2023-09-23T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2023-09-24T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2023-09-24T14:00:00Z,Quick snack,Food
+20,Public Transport,2023-09-25T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2023-09-25T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2023-09-26T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2023-09-27T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2023-09-27T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2023-09-28T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2023-09-28T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2023-09-29T15:00:00Z,New headphones,Shopping
+115,City Utilities,2023-09-30T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2023-09-30T11:00:00Z,Morning smoothie,Food
+18,Uber,2023-10-01T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2023-10-01T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2023-10-02T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2023-10-03T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2023-10-03T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2023-10-04T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2023-10-04T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2023-10-05T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2023-10-06T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2023-10-06T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2023-10-07T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2023-10-07T16:00:00Z,Streaming subscription,Subscription
+65,Target,2023-10-08T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2023-10-09T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2023-10-09T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2023-10-10T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2023-10-10T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2023-10-11T16:00:00Z,New lamp,Shopping
+130,Electric Company,2023-10-12T09:00:00Z,Utility bill,Utilities
+7,Cafe,2023-10-12T11:00:00Z,Morning coffee,Food
+11,Uber,2023-10-13T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2023-10-13T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2023-10-14T10:00:00Z,Books,Shopping
+105,Water Bill,2023-10-15T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2023-10-15T12:00:00Z,Lunch,Food
+17,Bus Pass,2023-10-16T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2023-10-16T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2023-10-17T15:00:00Z,Groceries,Food
+125,Clothing Store,2023-10-18T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2023-10-19T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2023-10-19T19:00:00Z,Pizza,Food
+14,Taxi,2023-10-20T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2023-10-20T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2023-10-21T16:00:00Z,New curtains,Shopping
+115,Utilities,2023-10-22T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2023-10-22T10:00:00Z,Coffee,Food
+18.5,Metro,2023-10-23T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2023-10-23T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2023-10-24T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2023-10-25T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2023-10-25T19:00:00Z,Dinner,Food
+22,Bus Fare,2023-10-26T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2023-10-26T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2023-10-27T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2023-10-28T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2023-10-28T11:00:00Z,Pastries,Food
+13,Uber,2023-10-29T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2023-10-29T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2023-10-30T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2023-10-31T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2023-10-31T14:00:00Z,Chips and soda,Food
+19.5,Train,2023-11-01T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2023-11-01T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2023-11-02T16:00:00Z,New books,Shopping
+140,Electricity,2023-11-03T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2023-11-03T12:00:00Z,Morning smoothie,Food
+28,Bus,2023-11-04T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2023-11-04T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2023-11-05T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2023-11-06T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2023-11-06T14:00:00Z,Pastries,Food
+12,Cab,2023-11-07T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2023-11-07T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2023-11-08T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2023-11-09T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2023-11-09T10:00:00Z,Morning coffee,Food
+20,Public Transport,2023-11-10T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2023-11-10T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2023-11-11T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2023-11-12T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2023-11-12T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2023-11-13T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2023-11-13T16:00:00Z,Family music subscription,Subscription
+65,Target,2023-11-14T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2023-11-15T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2023-11-15T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2023-11-16T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2023-11-16T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2023-11-17T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2023-11-18T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2023-11-18T19:00:00Z,Dinner,Food
+25,Bus Service,2023-11-19T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2023-11-19T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2023-11-20T16:00:00Z,New phone case,Shopping
+115,City Utilities,2023-11-21T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2023-11-21T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2023-11-22T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2023-11-22T13:00:00Z,Music subscription,Subscription
+100,Amazon,2023-11-23T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2023-11-24T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2023-11-24T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2023-11-25T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2023-11-25T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2023-11-26T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2023-11-27T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2023-11-27T12:30:00Z,Quick lunch,Food
+14,Uber,2023-11-28T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2023-11-28T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2023-11-29T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2023-11-30T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2023-11-30T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2023-12-01T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2023-12-01T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2023-12-02T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2023-12-02T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2023-12-03T09:10:00Z,Utility bill for December,Utilities
+4.5,Coffee Shop C,2023-12-03T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2023-12-04T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2023-12-04T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2023-12-05T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2023-12-06T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2023-12-06T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2023-12-07T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2023-12-07T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2023-12-08T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2023-12-08T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2023-12-09T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2023-12-10T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2023-12-10T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2023-12-11T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2023-12-11T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2023-12-12T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2023-12-13T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2023-12-13T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2023-12-14T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2023-12-14T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2023-12-15T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2023-12-15T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2023-12-16T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2023-12-16T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2023-12-17T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2023-12-18T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2023-12-18T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2023-12-19T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2023-12-19T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2023-12-20T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2023-12-21T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2023-12-21T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2023-12-22T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2023-12-22T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2023-12-23T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2023-12-24T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2023-12-24T14:00:00Z,Quick snack,Food
+20,Public Transport,2023-12-25T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2023-12-25T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2023-12-26T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2023-12-27T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2023-12-27T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2023-12-28T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2023-12-28T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2023-12-29T15:00:00Z,New headphones,Shopping
+115,City Utilities,2023-12-30T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2023-12-30T11:00:00Z,Morning smoothie,Food
+18,Uber,2023-12-31T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2023-12-31T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2024-01-01T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2024-01-02T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2024-01-02T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2024-01-03T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2024-01-03T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2024-01-04T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2024-01-05T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2024-01-05T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2024-01-06T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2024-01-06T16:00:00Z,Streaming subscription,Subscription
+65,Target,2024-01-07T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2024-01-08T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2024-01-08T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2024-01-09T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2024-01-09T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2024-01-10T16:00:00Z,New lamp,Shopping
+130,Electric Company,2024-01-11T09:00:00Z,Utility bill,Utilities
+7,Cafe,2024-01-11T11:00:00Z,Morning coffee,Food
+11,Uber,2024-01-12T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2024-01-12T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2024-01-13T10:00:00Z,Books,Shopping
+105,Water Bill,2024-01-14T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2024-01-14T12:00:00Z,Lunch,Food
+17,Bus Pass,2024-01-15T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2024-01-15T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2024-01-16T15:00:00Z,Groceries,Food
+125,Clothing Store,2024-01-17T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2024-01-18T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2024-01-18T19:00:00Z,Pizza,Food
+14,Taxi,2024-01-19T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2024-01-19T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2024-01-20T16:00:00Z,New curtains,Shopping
+115,Utilities,2024-01-21T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2024-01-21T10:00:00Z,Coffee,Food
+18.5,Metro,2024-01-22T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2024-01-22T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2024-01-23T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2024-01-24T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2024-01-24T19:00:00Z,Dinner,Food
+22,Bus Fare,2024-01-25T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2024-01-25T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2024-01-26T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2024-01-27T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2024-01-27T11:00:00Z,Pastries,Food
+13,Uber,2024-01-28T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2024-01-28T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2024-01-29T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2024-01-30T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2024-01-30T14:00:00Z,Chips and soda,Food
+19.5,Train,2024-01-31T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2024-01-31T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2024-02-01T16:00:00Z,New books,Shopping
+140,Electricity,2024-02-02T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2024-02-02T12:00:00Z,Morning smoothie,Food
+28,Bus,2024-02-03T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2024-02-03T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2024-02-04T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2024-02-05T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2024-02-05T14:00:00Z,Pastries,Food
+12,Cab,2024-02-06T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2024-02-06T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2024-02-07T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2024-02-08T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2024-02-08T10:00:00Z,Morning coffee,Food
+20,Public Transport,2024-02-09T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2024-02-09T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2024-02-10T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2024-02-11T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2024-02-11T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2024-02-12T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2024-02-12T16:00:00Z,Family music subscription,Subscription
+65,Target,2024-02-13T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2024-02-14T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2024-02-14T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2024-02-15T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2024-02-15T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2024-02-16T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2024-02-17T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2024-02-17T19:00:00Z,Dinner,Food
+25,Bus Service,2024-02-18T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2024-02-18T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2024-02-19T16:00:00Z,New phone case,Shopping
+115,City Utilities,2024-02-20T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2024-02-20T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2024-02-21T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2024-02-21T13:00:00Z,Music subscription,Subscription
+100,Amazon,2024-02-22T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2024-02-23T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2024-02-23T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2024-02-24T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2024-02-24T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2024-02-25T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2024-02-26T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2024-02-26T12:30:00Z,Quick lunch,Food
+14,Uber,2024-02-27T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2024-02-27T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2024-02-28T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2024-02-29T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2024-02-29T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2024-03-01T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2024-03-01T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2024-03-02T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2024-03-02T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2024-03-03T09:10:00Z,Utility bill for March,Utilities
+4.5,Coffee Shop C,2024-03-03T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2024-03-04T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2024-03-04T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2024-03-05T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2024-03-06T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2024-03-06T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2024-03-07T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2024-03-07T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2024-03-08T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2024-03-08T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2024-03-09T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2024-03-10T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2024-03-10T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2024-03-11T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2024-03-11T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2024-03-12T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2024-03-13T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2024-03-13T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2024-03-14T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2024-03-14T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2024-03-15T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2024-03-15T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2024-03-16T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2024-03-16T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2024-03-17T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2024-03-18T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2024-03-18T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2024-03-19T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2024-03-19T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2024-03-20T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2024-03-21T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2024-03-21T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2024-03-22T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2024-03-22T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2024-03-23T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2024-03-24T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2024-03-24T14:00:00Z,Quick snack,Food
+20,Public Transport,2024-03-25T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2024-03-25T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2024-03-26T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2024-03-27T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2024-03-27T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2024-03-28T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2024-03-28T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2024-03-29T15:00:00Z,New headphones,Shopping
+115,City Utilities,2024-03-30T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2024-03-30T11:00:00Z,Morning smoothie,Food
+18,Uber,2024-03-31T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2024-03-31T12:00:00Z,Entertainment subscription,Subscription
+7.5,Starbucks,2024-04-01T08:30:00Z,Morning coffee run,Food
+15,Uber,2024-04-01T10:15:00Z,Ride to the office,Transport
+15.99,Netflix,2024-04-02T08:00:00Z,Monthly subscription charge,Subscription
+85,Home Depot,2024-04-02T15:45:00Z,Gardening supplies,Shopping
+110,Power Company,2024-04-03T09:00:00Z,Electric bill,Utilities
+12.5,Subway,2024-04-03T13:00:00Z,Lunch sandwich,Food
+28,Train Services,2024-04-04T07:50:00Z,Commuter rail ticket,Transport
+19.99,Spotify,2024-04-04T12:00:00Z,Premium music service,Subscription
+75,H&M,2024-04-05T17:30:00Z,New clothes for spring,Shopping
+95,Water & Sewer Dept,2024-04-06T10:30:00Z,Quarterly water bill,Utilities
+5.25,Local Bakery,2024-04-06T11:00:00Z,Croissants for breakfast,Food
+18,Lyft,2024-04-07T09:00:00Z,Ride to the gym,Transport
+8.99,Hulu,2024-04-07T14:00:00Z,Monthly streaming fee,Subscription
+130,Best Buy,2024-04-08T16:00:00Z,New headphones,Shopping
+100,Phone Company,2024-04-09T09:15:00Z,Monthly phone bill,Utilities
+9,Taco Bell,2024-04-09T19:00:00Z,Quick dinner,Food
+25,Metro,2024-04-10T07:45:00Z,Weekly metro pass,Transport
+10.99,Audible,2024-04-10T11:30:00Z,Audiobook subscription,Subscription
+60,Bookstore,2024-04-11T12:00:00Z,New novel and a journal,Shopping
+120,Internet Provider,2024-04-12T09:00:00Z,Monthly internet service,Utilities
+6.5,Local Cafe,2024-04-12T15:30:00Z,Coffee and a scone,Food
+11.5,Uber,2024-04-13T08:45:00Z,Ride to the bus station,Transport
+15.99,Disney+,2024-04-13T13:00:00Z,Streaming service fee,Subscription
+150,Target,2024-04-14T10:00:00Z,Household goods and groceries,Shopping
+130,Gas & Electric,2024-04-15T09:00:00Z,Combined utility bill,Utilities
+4,Vending Machine,2024-04-15T12:00:00Z,Quick snack,Food
+35,Airport Shuttle,2024-04-16T06:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2024-04-16T10:00:00Z,Sports news subscription,Subscription
+95,Sephora,2024-04-17T14:30:00Z,Makeup and skincare,Shopping
+88,Waste Management,2024-04-18T09:00:00Z,Trash collection service,Utilities
+8.5,Restaurant A,2024-04-18T19:00:00Z,Dinner out,Food
+17,Bus Fare,2024-04-19T07:30:00Z,Weekly bus pass,Transport
+10.99,Amazon Prime,2024-04-19T11:00:00Z,Annual Prime renewal,Subscription
+100,Amazon,2024-04-20T16:00:00Z,New pet supplies,Shopping
+140,Electricity Company,2024-04-21T09:00:00Z,Monthly electricity bill,Utilities
+7.5,Smoothie King,2024-04-21T11:00:00Z,Post-workout smoothie,Food
+20,Public Transport,2024-04-22T08:00:00Z,Weekly transport pass,Transport
+12.99,Spotify Family,2024-04-22T12:00:00Z,Music streaming subscription,Subscription
+110,Nike,2024-04-23T15:00:00Z,New running shoes,Shopping
+115,City Utilities,2024-04-24T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Deli,2024-04-24T12:00:00Z,Sandwich for lunch,Food
+14,Taxi,2024-04-25T10:00:00Z,Cab ride to the store,Transport
+16.99,Peacock,2024-04-25T14:00:00Z,Streaming service,Subscription
+120,Best Buy,2024-04-26T16:00:00Z,New video game console,Shopping
+90,Gas Bill,2024-04-27T09:00:00Z,Monthly gas charge,Utilities
+6,Coffee Shop,2024-04-27T11:00:00Z,Coffee,Food
+33,Railroad Ticket,2024-04-28T07:00:00Z,Commuter train ticket,Transport
+15.99,HBO Max,2024-04-28T10:00:00Z,Entertainment subscription,Subscription
+75,Electronics Store,2024-04-29T15:00:00Z,New phone charger,Shopping
+105,Water Bill Co.,2024-04-30T09:00:00Z,Quarterly water payment,Utilities
+4.5,Vending Machine,2024-04-30T14:00:00Z,Drink and a snack,Food
+16,Uber,2024-05-01T09:00:00Z,Ride to work,Transport
+10.99,Apple TV+,2024-05-01T12:00:00Z,Monthly streaming fee,Subscription
+55,Online Art Store,2024-05-02T11:15:00Z,Art supplies,Shopping
+85,Internet Service,2024-05-03T09:30:00Z,Monthly internet fee,Utilities
+10,Lunch Spot,2024-05-03T12:30:00Z,Quick lunch,Food
+22,Public Transport,2024-05-04T07:40:00Z,Weekly bus pass,Transport
+15.99,Disney+,2024-05-04T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2024-05-05T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2024-05-06T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2024-05-06T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2024-05-07T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2024-05-07T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2024-05-08T15:00:00Z,New headphones,Shopping
+115,City Utilities,2024-05-09T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2024-05-09T11:00:00Z,Morning smoothie,Food
+18,Uber,2024-05-10T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2024-05-10T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2024-05-11T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2024-05-12T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2024-05-12T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2024-05-13T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2024-05-13T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2024-05-14T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2024-05-15T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2024-05-15T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2024-05-16T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2024-05-16T16:00:00Z,Streaming subscription,Subscription
+65,Target,2024-05-17T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2024-05-18T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2024-05-18T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2024-05-19T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2024-05-19T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2024-05-20T16:00:00Z,New lamp,Shopping
+130,Electric Company,2024-05-21T09:00:00Z,Utility bill,Utilities
+7,Cafe,2024-05-21T11:00:00Z,Morning coffee,Food
+11,Uber,2024-05-22T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2024-05-22T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2024-05-23T10:00:00Z,Books,Shopping
+105,Water Bill,2024-05-24T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2024-05-24T12:00:00Z,Lunch,Food
+17,Bus Pass,2024-05-25T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2024-05-25T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2024-05-26T15:00:00Z,Groceries,Food
+125,Clothing Store,2024-05-27T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2024-05-28T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2024-05-28T19:00:00Z,Pizza,Food
+14,Taxi,2024-05-29T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2024-05-29T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2024-05-30T16:00:00Z,New curtains,Shopping
+115,Utilities,2024-05-31T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2024-05-31T10:00:00Z,Coffee,Food
+18.5,Metro,2024-06-01T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2024-06-01T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2024-06-02T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2024-06-03T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2024-06-03T19:00:00Z,Dinner,Food
+22,Bus Fare,2024-06-04T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2024-06-04T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2024-06-05T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2024-06-06T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2024-06-06T11:00:00Z,Pastries,Food
+13,Uber,2024-06-07T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2024-06-07T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2024-06-08T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2024-06-09T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2024-06-09T14:00:00Z,Chips and soda,Food
+19.5,Train,2024-06-10T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2024-06-10T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2024-06-11T16:00:00Z,New books,Shopping
+140,Electricity,2024-06-12T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2024-06-12T12:00:00Z,Morning smoothie,Food
+28,Bus,2024-06-13T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2024-06-13T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2024-06-14T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2024-06-15T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2024-06-15T14:00:00Z,Pastries,Food
+12,Cab,2024-06-16T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2024-06-16T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2024-06-17T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2024-06-18T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2024-06-18T10:00:00Z,Morning coffee,Food
+20,Public Transport,2024-06-19T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2024-06-19T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2024-06-20T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2024-06-21T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2024-06-21T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2024-06-22T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2024-06-22T16:00:00Z,Family music subscription,Subscription
+65,Target,2024-06-23T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2024-06-24T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2024-06-24T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2024-06-25T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2024-06-25T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2024-06-26T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2024-06-27T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2024-06-27T19:00:00Z,Dinner,Food
+25,Bus Service,2024-06-28T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2024-06-28T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2024-06-29T16:00:00Z,New phone case,Shopping
+115,City Utilities,2024-06-30T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2024-06-30T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2024-07-01T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2024-07-01T13:00:00Z,Music subscription,Subscription
+100,Amazon,2024-07-02T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2024-07-03T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2024-07-03T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2024-07-04T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2024-07-04T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2024-07-05T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2024-07-06T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2024-07-06T12:30:00Z,Quick lunch,Food
+14,Uber,2024-07-07T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2024-07-07T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2024-07-08T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2024-07-09T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2024-07-09T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2024-07-10T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2024-07-10T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2024-07-11T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2024-07-11T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2024-07-12T09:10:00Z,Utility bill for July,Utilities
+4.5,Coffee Shop C,2024-07-12T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2024-07-13T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2024-07-13T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2024-07-14T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2024-07-15T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2024-07-15T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2024-07-16T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2024-07-16T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2024-07-17T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2024-07-17T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2024-07-18T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2024-07-19T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2024-07-19T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2024-07-20T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2024-07-20T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2024-07-21T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2024-07-22T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2024-07-22T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2024-07-23T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2024-07-23T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2024-07-24T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2024-07-24T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2024-07-25T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2024-07-25T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2024-07-26T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2024-07-27T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2024-07-27T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2024-07-28T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2024-07-28T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2024-07-29T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2024-07-30T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2024-07-30T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2024-07-31T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2024-07-31T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2024-08-01T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2024-08-02T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2024-08-02T14:00:00Z,Quick snack,Food
+20,Public Transport,2024-08-03T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2024-08-03T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2024-08-04T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2024-08-05T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2024-08-05T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2024-08-06T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2024-08-06T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2024-08-07T15:00:00Z,New headphones,Shopping
+115,City Utilities,2024-08-08T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2024-08-08T11:00:00Z,Morning smoothie,Food
+18,Uber,2024-08-09T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2024-08-09T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2024-08-10T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2024-08-11T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2024-08-11T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2024-08-12T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2024-08-12T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2024-08-13T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2024-08-14T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2024-08-14T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2024-08-15T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2024-08-15T16:00:00Z,Streaming subscription,Subscription
+65,Target,2024-08-16T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2024-08-17T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2024-08-17T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2024-08-18T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2024-08-18T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2024-08-19T16:00:00Z,New lamp,Shopping
+130,Electric Company,2024-08-20T09:00:00Z,Utility bill,Utilities
+7,Cafe,2024-08-20T11:00:00Z,Morning coffee,Food
+11,Uber,2024-08-21T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2024-08-21T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2024-08-22T10:00:00Z,Books,Shopping
+105,Water Bill,2024-08-23T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2024-08-23T12:00:00Z,Lunch,Food
+17,Bus Pass,2024-08-24T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2024-08-24T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2024-08-25T15:00:00Z,Groceries,Food
+125,Clothing Store,2024-08-26T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2024-08-27T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2024-08-27T19:00:00Z,Pizza,Food
+14,Taxi,2024-08-28T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2024-08-28T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2024-08-29T16:00:00Z,New curtains,Shopping
+115,Utilities,2024-08-30T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2024-08-30T10:00:00Z,Coffee,Food
+18.5,Metro,2024-08-31T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2024-08-31T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2024-09-01T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2024-09-02T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2024-09-02T19:00:00Z,Dinner,Food
+22,Bus Fare,2024-09-03T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2024-09-03T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2024-09-04T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2024-09-05T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2024-09-05T11:00:00Z,Pastries,Food
+13,Uber,2024-09-06T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2024-09-06T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2024-09-07T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2024-09-08T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2024-09-08T14:00:00Z,Chips and soda,Food
+19.5,Train,2024-09-09T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2024-09-09T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2024-09-10T16:00:00Z,New books,Shopping
+140,Electricity,2024-09-11T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2024-09-11T12:00:00Z,Morning smoothie,Food
+28,Bus,2024-09-12T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2024-09-12T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2024-09-13T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2024-09-14T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2024-09-14T14:00:00Z,Pastries,Food
+12,Cab,2024-09-15T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2024-09-15T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2024-09-16T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2024-09-17T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2024-09-17T10:00:00Z,Morning coffee,Food
+20,Public Transport,2024-09-18T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2024-09-18T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2024-09-19T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2024-09-20T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2024-09-20T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2024-09-21T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2024-09-21T16:00:00Z,Family music subscription,Subscription
+65,Target,2024-09-22T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2024-09-23T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2024-09-23T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2024-09-24T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2024-09-24T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2024-09-25T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2024-09-26T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2024-09-26T19:00:00Z,Dinner,Food
+25,Bus Service,2024-09-27T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2024-09-27T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2024-09-28T16:00:00Z,New phone case,Shopping
+115,City Utilities,2024-09-29T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2024-09-29T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2024-09-30T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2024-09-30T13:00:00Z,Music subscription,Subscription
+100,Amazon,2024-10-01T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2024-10-02T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2024-10-02T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2024-10-03T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2024-10-03T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2024-10-04T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2024-10-05T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2024-10-05T12:30:00Z,Quick lunch,Food
+14,Uber,2024-10-06T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2024-10-06T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2024-10-07T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2024-10-08T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2024-10-08T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2024-10-09T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2024-10-09T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2024-10-10T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2024-10-10T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2024-10-11T09:10:00Z,Utility bill for October,Utilities
+4.5,Coffee Shop C,2024-10-11T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2024-10-12T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2024-10-12T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2024-10-13T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2024-10-14T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2024-10-14T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2024-10-15T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2024-10-15T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2024-10-16T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2024-10-16T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2024-10-17T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2024-10-18T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2024-10-18T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2024-10-19T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2024-10-19T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2024-10-20T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2024-10-21T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2024-10-21T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2024-10-22T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2024-10-22T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2024-10-23T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2024-10-23T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2024-10-24T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2024-10-24T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2024-10-25T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2024-10-26T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2024-10-26T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2024-10-27T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2024-10-27T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2024-10-28T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2024-10-29T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2024-10-29T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2024-10-30T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2024-10-30T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2024-10-31T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2024-10-31T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2024-10-31T14:00:00Z,Quick snack,Food
+20,Public Transport,2024-11-01T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2024-11-01T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2024-11-02T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2024-11-03T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2024-11-03T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2024-11-04T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2024-11-04T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2024-11-05T15:00:00Z,New headphones,Shopping
+115,City Utilities,2024-11-06T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2024-11-06T11:00:00Z,Morning smoothie,Food
+18,Uber,2024-11-07T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2024-11-07T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2024-11-08T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2024-11-09T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2024-11-09T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2024-11-10T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2024-11-10T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2024-11-11T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2024-11-12T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2024-11-12T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2024-11-13T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2024-11-13T16:00:00Z,Streaming subscription,Subscription
+65,Target,2024-11-14T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2024-11-15T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2024-11-15T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2024-11-16T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2024-11-16T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2024-11-17T16:00:00Z,New lamp,Shopping
+130,Electric Company,2024-11-18T09:00:00Z,Utility bill,Utilities
+7,Cafe,2024-11-18T11:00:00Z,Morning coffee,Food
+11,Uber,2024-11-19T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2024-11-19T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2024-11-20T10:00:00Z,Books,Shopping
+105,Water Bill,2024-11-21T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2024-11-21T12:00:00Z,Lunch,Food
+17,Bus Pass,2024-11-22T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2024-11-22T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2024-11-23T15:00:00Z,Groceries,Food
+125,Clothing Store,2024-11-24T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2024-11-25T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2024-11-25T19:00:00Z,Pizza,Food
+14,Taxi,2024-11-26T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2024-11-26T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2024-11-27T16:00:00Z,New curtains,Shopping
+115,Utilities,2024-11-28T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2024-11-28T10:00:00Z,Coffee,Food
+18.5,Metro,2024-11-29T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2024-11-29T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2024-11-30T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2024-11-30T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2024-11-30T19:00:00Z,Dinner,Food
+22,Bus Fare,2024-12-01T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2024-12-01T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2024-12-02T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2024-12-03T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2024-12-03T11:00:00Z,Pastries,Food
+13,Uber,2024-12-04T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2024-12-04T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2024-12-05T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2024-12-06T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2024-12-06T14:00:00Z,Chips and soda,Food
+19.5,Train,2024-12-07T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2024-12-07T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2024-12-08T16:00:00Z,New books,Shopping
+140,Electricity,2024-12-09T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2024-12-09T12:00:00Z,Morning smoothie,Food
+28,Bus,2024-12-10T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2024-12-10T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2024-12-11T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2024-12-12T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2024-12-12T14:00:00Z,Pastries,Food
+12,Cab,2024-12-13T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2024-12-13T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2024-12-14T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2024-12-15T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2024-12-15T10:00:00Z,Morning coffee,Food
+20,Public Transport,2024-12-16T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2024-12-16T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2024-12-17T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2024-12-18T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2024-12-18T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2024-12-19T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2024-12-19T16:00:00Z,Family music subscription,Subscription
+65,Target,2024-12-20T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2024-12-21T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2024-12-21T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2024-12-22T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2024-12-22T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2024-12-23T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2024-12-24T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2024-12-24T19:00:00Z,Dinner,Food
+25,Bus Service,2024-12-25T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2024-12-25T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2024-12-26T16:00:00Z,New phone case,Shopping
+115,City Utilities,2024-12-27T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2024-12-27T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2024-12-28T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2024-12-28T13:00:00Z,Music subscription,Subscription
+100,Amazon,2024-12-29T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2024-12-30T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2024-12-30T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2024-12-31T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2024-12-31T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2025-01-01T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2025-01-02T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2025-01-02T12:30:00Z,Quick lunch,Food
+14,Uber,2025-01-03T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2025-01-03T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2025-01-04T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2025-01-05T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2025-01-05T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2025-01-06T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2025-01-06T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2025-01-07T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2025-01-07T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2025-01-08T09:10:00Z,Utility bill for January,Utilities
+4.5,Coffee Shop C,2025-01-08T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2025-01-09T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2025-01-09T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2025-01-10T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2025-01-11T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2025-01-11T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2025-01-12T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2025-01-12T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2025-01-13T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2025-01-13T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2025-01-14T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2025-01-15T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2025-01-15T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2025-01-16T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2025-01-16T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2025-01-17T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2025-01-18T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2025-01-18T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2025-01-19T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2025-01-19T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2025-01-20T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2025-01-20T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2025-01-21T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2025-01-21T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2025-01-22T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2025-01-23T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2025-01-23T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2025-01-24T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2025-01-24T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2025-01-25T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2025-01-26T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2025-01-26T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2025-01-27T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2025-01-27T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2025-01-28T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2025-01-29T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2025-01-29T14:00:00Z,Quick snack,Food
+20,Public Transport,2025-01-30T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2025-01-30T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2025-01-31T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2025-02-01T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2025-02-01T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2025-02-02T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2025-02-02T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2025-02-03T15:00:00Z,New headphones,Shopping
+115,City Utilities,2025-02-04T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2025-02-04T11:00:00Z,Morning smoothie,Food
+18,Uber,2025-02-05T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2025-02-05T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2025-02-06T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2025-02-07T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2025-02-07T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2025-02-08T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2025-02-08T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2025-02-09T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2025-02-10T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2025-02-10T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2025-02-11T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2025-02-11T16:00:00Z,Streaming subscription,Subscription
+65,Target,2025-02-12T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2025-02-13T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2025-02-13T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2025-02-14T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2025-02-14T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2025-02-15T16:00:00Z,New lamp,Shopping
+130,Electric Company,2025-02-16T09:00:00Z,Utility bill,Utilities
+7,Cafe,2025-02-16T11:00:00Z,Morning coffee,Food
+11,Uber,2025-02-17T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2025-02-17T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2025-02-18T10:00:00Z,Books,Shopping
+105,Water Bill,2025-02-19T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2025-02-19T12:00:00Z,Lunch,Food
+17,Bus Pass,2025-02-20T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2025-02-20T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2025-02-21T15:00:00Z,Groceries,Food
+125,Clothing Store,2025-02-22T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2025-02-23T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2025-02-23T19:00:00Z,Pizza,Food
+14,Taxi,2025-02-24T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2025-02-24T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2025-02-25T16:00:00Z,New curtains,Shopping
+115,Utilities,2025-02-26T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2025-02-26T10:00:00Z,Coffee,Food
+18.5,Metro,2025-02-27T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2025-02-27T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2025-02-28T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2025-02-28T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2025-02-28T19:00:00Z,Dinner,Food
+22,Bus Fare,2025-03-01T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2025-03-01T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2025-03-02T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2025-03-03T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2025-03-03T11:00:00Z,Pastries,Food
+13,Uber,2025-03-04T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2025-03-04T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2025-03-05T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2025-03-06T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2025-03-06T14:00:00Z,Chips and soda,Food
+19.5,Train,2025-03-07T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2025-03-07T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2025-03-08T16:00:00Z,New books,Shopping
+140,Electricity,2025-03-09T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2025-03-09T12:00:00Z,Morning smoothie,Food
+28,Bus,2025-03-10T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2025-03-10T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2025-03-11T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2025-03-12T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2025-03-12T14:00:00Z,Pastries,Food
+12,Cab,2025-03-13T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2025-03-13T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2025-03-14T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2025-03-15T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2025-03-15T10:00:00Z,Morning coffee,Food
+20,Public Transport,2025-03-16T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2025-03-16T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2025-03-17T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2025-03-18T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2025-03-18T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2025-03-19T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2025-03-19T16:00:00Z,Family music subscription,Subscription
+65,Target,2025-03-20T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2025-03-21T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2025-03-21T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2025-03-22T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2025-03-22T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2025-03-23T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2025-03-24T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2025-03-24T19:00:00Z,Dinner,Food
+25,Bus Service,2025-03-25T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2025-03-25T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2025-03-26T16:00:00Z,New phone case,Shopping
+115,City Utilities,2025-03-27T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2025-03-27T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2025-03-28T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2025-03-28T13:00:00Z,Music subscription,Subscription
+100,Amazon,2025-03-29T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2025-03-30T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2025-03-30T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2025-03-31T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2025-03-31T11:00:00Z,Audiobook subscription,Subscription
+12.5,Local Cafe,2025-04-05T09:00:00Z,Morning coffee and a croissant,Food
+28,Metro Train,2025-04-05T17:45:00Z,Commuter rail ticket,Transport
+19.99,Spotify,2025-04-06T12:00:00Z,Premium music service,Subscription
+85,H&M,2025-04-07T15:30:00Z,New clothes for spring,Shopping
+110,Power Company,2025-04-08T09:00:00Z,Electric bill,Utilities
+8.5,Taco Bell,2025-04-12T19:00:00Z,Quick dinner,Food
+25,Uber,2025-04-13T09:15:00Z,Ride to the airport,Transport
+10.99,Audible,2025-04-14T11:30:00Z,Audiobook subscription,Subscription
+75,Best Buy,2025-04-15T16:00:00Z,New headphones,Shopping
+95,Water & Sewer Dept,2025-04-16T10:30:00Z,Quarterly water bill,Utilities
+6.5,Vending Machine,2025-04-20T14:00:00Z,Snack and a drink,Food
+11.5,Lyft,2025-04-21T08:45:00Z,Ride to the bus station,Transport
+15.99,Disney+,2025-04-21T13:00:00Z,Streaming service fee,Subscription
+150,Target,2025-04-22T10:00:00Z,Household goods and groceries,Shopping
+130,Gas & Electric,2025-04-23T09:00:00Z,Combined utility bill,Utilities
+9,Local Pizzeria,2025-04-27T20:00:00Z,Pizza slice and soda,Food
+17,Public Bus Service,2025-04-28T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2025-04-28T14:00:00Z,Streaming service,Subscription
+95,Sephora,2025-04-29T14:30:00Z,Makeup and skincare,Shopping
+88,Waste Management,2025-04-30T09:00:00Z,Trash collection service,Utilities
+15,Local Cafe,2025-05-01T08:30:00Z,Morning coffee run,Food
+15,Uber,2025-05-01T10:15:00Z,Ride to the office,Transport
+15.99,Netflix,2025-05-02T08:00:00Z,Monthly subscription charge,Subscription
+85,Home Depot,2025-05-02T15:45:00Z,Gardening supplies,Shopping
+110,Power Company,2025-05-03T09:00:00Z,Electric bill,Utilities
+12.5,Subway,2025-05-03T13:00:00Z,Lunch sandwich,Food
+28,Train Services,2025-05-04T07:50:00Z,Commuter rail ticket,Transport
+19.99,Spotify,2025-05-04T12:00:00Z,Premium music service,Subscription
+75,H&M,2025-05-05T17:30:00Z,New clothes for spring,Shopping
+95,Water & Sewer Dept,2025-05-06T10:30:00Z,Quarterly water bill,Utilities
+5.25,Local Bakery,2025-05-06T11:00:00Z,Croissants for breakfast,Food
+18,Lyft,2025-05-07T09:00:00Z,Ride to the gym,Transport
+8.99,Hulu,2025-05-07T14:00:00Z,Monthly streaming fee,Subscription
+130,Best Buy,2025-05-08T16:00:00Z,New headphones,Shopping
+100,Phone Company,2025-05-09T09:15:00Z,Monthly phone bill,Utilities
+9,Taco Bell,2025-05-09T19:00:00Z,Quick dinner,Food
+25,Metro,2025-05-10T07:45:00Z,Weekly metro pass,Transport
+10.99,Audible,2025-05-10T11:30:00Z,Audiobook subscription,Subscription
+60,Bookstore,2025-05-11T12:00:00Z,New novel and a journal,Shopping
+120,Internet Provider,2025-05-12T09:00:00Z,Monthly internet service,Utilities
+6.5,Local Cafe,2025-05-12T15:30:00Z,Coffee and a scone,Food
+11.5,Uber,2025-05-13T08:45:00Z,Ride to the bus station,Transport
+15.99,Disney+,2025-05-13T13:00:00Z,Streaming service fee,Subscription
+150,Target,2025-05-14T10:00:00Z,Household goods and groceries,Shopping
+130,Gas & Electric,2025-05-15T09:00:00Z,Combined utility bill,Utilities
+4,Vending Machine,2025-05-15T12:00:00Z,Quick snack,Food
+35,Airport Shuttle,2025-05-16T06:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2025-05-16T10:00:00Z,Sports news subscription,Subscription
+95,Sephora,2025-05-17T14:30:00Z,Makeup and skincare,Shopping
+88,Waste Management,2025-05-18T09:00:00Z,Trash collection service,Utilities
+8.5,Restaurant A,2025-05-18T19:00:00Z,Dinner out,Food
+17,Bus Fare,2025-05-19T07:30:00Z,Weekly bus pass,Transport
+10.99,Amazon Prime,2025-05-19T11:00:00Z,Annual Prime renewal,Subscription
+100,Amazon,2025-05-20T16:00:00Z,New pet supplies,Shopping
+140,Electricity Company,2025-05-21T09:00:00Z,Monthly electricity bill,Utilities
+7.5,Smoothie King,2025-05-21T11:00:00Z,Post-workout smoothie,Food
+20,Public Transport,2025-05-22T08:00:00Z,Weekly transport pass,Transport
+12.99,Spotify Family,2025-05-22T12:00:00Z,Music streaming subscription,Subscription
+110,Nike,2025-05-23T15:00:00Z,New running shoes,Shopping
+115,City Utilities,2025-05-24T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Deli,2025-05-24T12:00:00Z,Sandwich for lunch,Food
+14,Taxi,2025-05-25T10:00:00Z,Cab ride to the store,Transport
+16.99,Peacock,2025-05-25T14:00:00Z,Streaming service,Subscription
+120,Best Buy,2025-05-26T16:00:00Z,New video game console,Shopping
+90,Gas Bill,2025-05-27T09:00:00Z,Monthly gas charge,Utilities
+6,Coffee Shop,2025-05-27T11:00:00Z,Coffee,Food
+33,Railroad Ticket,2025-05-28T07:00:00Z,Commuter train ticket,Transport
+15.99,HBO Max,2025-05-28T10:00:00Z,Entertainment subscription,Subscription
+75,Electronics Store,2025-05-29T15:00:00Z,New phone charger,Shopping
+105,Water Bill Co.,2025-05-30T09:00:00Z,Quarterly water payment,Utilities
+4.5,Vending Machine,2025-05-30T14:00:00Z,Drink and a snack,Food
+16,Uber,2025-05-31T09:00:00Z,Ride to work,Transport
+10.99,Apple TV+,2025-06-01T12:00:00Z,Monthly streaming fee,Subscription
+55,Online Art Store,2025-06-02T11:15:00Z,Art supplies,Shopping
+85,Internet Service,2025-06-03T09:30:00Z,Monthly internet fee,Utilities
+10,Lunch Spot,2025-06-03T12:30:00Z,Quick lunch,Food
+22,Public Transport,2025-06-04T07:40:00Z,Weekly bus pass,Transport
+15.99,Disney+,2025-06-04T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2025-06-05T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2025-06-06T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2025-06-06T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2025-06-07T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2025-06-07T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2025-06-08T15:00:00Z,New headphones,Shopping
+115,City Utilities,2025-06-09T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2025-06-09T11:00:00Z,Morning smoothie,Food
+18,Uber,2025-06-10T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2025-06-10T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2025-06-11T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2025-06-12T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2025-06-12T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2025-06-13T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2025-06-13T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2025-06-14T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2025-06-15T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2025-06-15T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2025-06-16T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2025-06-16T16:00:00Z,Streaming subscription,Subscription
+65,Target,2025-06-17T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2025-06-18T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2025-06-18T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2025-06-19T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2025-06-19T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2025-06-20T16:00:00Z,New lamp,Shopping
+130,Electric Company,2025-06-21T09:00:00Z,Utility bill,Utilities
+7,Cafe,2025-06-21T11:00:00Z,Morning coffee,Food
+11,Uber,2025-06-22T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2025-06-22T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2025-06-23T10:00:00Z,Books,Shopping
+105,Water Bill,2025-06-24T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2025-06-24T12:00:00Z,Lunch,Food
+17,Bus Pass,2025-06-25T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2025-06-25T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2025-06-26T15:00:00Z,Groceries,Food
+125,Clothing Store,2025-06-27T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2025-06-28T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2025-06-28T19:00:00Z,Pizza,Food
+14,Taxi,2025-06-29T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2025-06-29T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2025-06-30T16:00:00Z,New curtains,Shopping
+115,Utilities,2025-07-01T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2025-07-01T10:00:00Z,Coffee,Food
+18.5,Metro,2025-07-02T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2025-07-02T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2025-07-03T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2025-07-04T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2025-07-04T19:00:00Z,Dinner,Food
+22,Bus Fare,2025-07-05T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2025-07-05T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2025-07-06T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2025-07-07T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2025-07-07T11:00:00Z,Pastries,Food
+13,Uber,2025-07-08T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2025-07-08T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2025-07-09T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2025-07-10T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2025-07-10T14:00:00Z,Chips and soda,Food
+19.5,Train,2025-07-11T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2025-07-11T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2025-07-12T16:00:00Z,New books,Shopping
+140,Electricity,2025-07-13T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2025-07-13T12:00:00Z,Morning smoothie,Food
+28,Bus,2025-07-14T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2025-07-14T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2025-07-15T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2025-07-16T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2025-07-16T14:00:00Z,Pastries,Food
+12,Cab,2025-07-17T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2025-07-17T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2025-07-18T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2025-07-19T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2025-07-19T10:00:00Z,Morning coffee,Food
+20,Public Transport,2025-07-20T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2025-07-20T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2025-07-21T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2025-07-22T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2025-07-22T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2025-07-23T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2025-07-23T16:00:00Z,Family music subscription,Subscription
+65,Target,2025-07-24T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2025-07-25T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2025-07-25T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2025-07-26T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2025-07-26T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2025-07-27T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2025-07-28T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2025-07-28T19:00:00Z,Dinner,Food
+25,Bus Service,2025-07-29T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2025-07-29T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2025-07-30T16:00:00Z,New phone case,Shopping
+115,City Utilities,2025-07-31T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2025-07-31T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2025-08-01T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2025-08-01T13:00:00Z,Music subscription,Subscription
+100,Amazon,2025-08-02T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2025-08-03T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2025-08-03T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2025-08-04T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2025-08-04T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2025-08-05T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2025-08-06T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2025-08-06T12:30:00Z,Quick lunch,Food
+14,Uber,2025-08-07T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2025-08-07T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2025-08-08T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2025-08-09T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2025-08-09T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2025-08-10T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2025-08-10T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2025-08-11T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2025-08-11T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2025-08-12T09:10:00Z,Utility bill for August,Utilities
+4.5,Coffee Shop C,2025-08-12T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2025-08-13T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2025-08-13T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2025-08-14T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2025-08-15T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2025-08-15T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2025-08-16T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2025-08-16T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2025-08-17T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2025-08-17T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2025-08-18T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2025-08-19T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2025-08-19T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2025-08-20T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2025-08-20T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2025-08-21T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2025-08-22T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2025-08-22T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2025-08-23T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2025-08-23T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2025-08-24T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2025-08-24T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2025-08-25T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2025-08-25T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2025-08-26T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2025-08-27T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2025-08-27T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2025-08-28T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2025-08-28T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2025-08-29T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2025-08-30T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2025-08-30T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2025-08-31T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2025-08-31T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2025-09-01T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2025-09-02T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2025-09-02T14:00:00Z,Quick snack,Food
+20,Public Transport,2025-09-03T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2025-09-03T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2025-09-04T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2025-09-05T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2025-09-05T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2025-09-06T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2025-09-06T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2025-09-07T15:00:00Z,New headphones,Shopping
+115,City Utilities,2025-09-08T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2025-09-08T11:00:00Z,Morning smoothie,Food
+18,Uber,2025-09-09T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2025-09-09T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2025-09-10T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2025-09-11T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2025-09-11T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2025-09-12T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2025-09-12T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2025-09-13T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2025-09-14T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2025-09-14T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2025-09-15T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2025-09-15T16:00:00Z,Streaming subscription,Subscription
+65,Target,2025-09-16T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2025-09-17T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2025-09-17T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2025-09-18T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2025-09-18T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2025-09-19T16:00:00Z,New lamp,Shopping
+130,Electric Company,2025-09-20T09:00:00Z,Utility bill,Utilities
+7,Cafe,2025-09-20T11:00:00Z,Morning coffee,Food
+11,Uber,2025-09-21T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2025-09-21T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2025-09-22T10:00:00Z,Books,Shopping
+105,Water Bill,2025-09-23T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2025-09-23T12:00:00Z,Lunch,Food
+17,Bus Pass,2025-09-24T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2025-09-24T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2025-09-25T15:00:00Z,Groceries,Food
+125,Clothing Store,2025-09-26T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2025-09-27T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2025-09-27T19:00:00Z,Pizza,Food
+14,Taxi,2025-09-28T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2025-09-28T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2025-09-29T16:00:00Z,New curtains,Shopping
+115,Utilities,2025-09-30T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2025-09-30T10:00:00Z,Coffee,Food
+18.5,Metro,2025-10-01T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2025-10-01T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2025-10-02T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2025-10-03T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2025-10-03T19:00:00Z,Dinner,Food
+22,Bus Fare,2025-10-04T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2025-10-04T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2025-10-05T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2025-10-06T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2025-10-06T11:00:00Z,Pastries,Food
+13,Uber,2025-10-07T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2025-10-07T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2025-10-08T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2025-10-09T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2025-10-09T14:00:00Z,Chips and soda,Food
+19.5,Train,2025-10-10T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2025-10-10T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2025-10-11T16:00:00Z,New books,Shopping
+140,Electricity,2025-10-12T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2025-10-12T12:00:00Z,Morning smoothie,Food
+28,Bus,2025-10-13T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2025-10-13T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2025-10-14T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2025-10-15T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2025-10-15T14:00:00Z,Pastries,Food
+12,Cab,2025-10-16T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2025-10-16T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2025-10-17T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2025-10-18T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2025-10-18T10:00:00Z,Morning coffee,Food
+20,Public Transport,2025-10-19T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2025-10-19T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2025-10-20T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2025-10-21T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2025-10-21T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2025-10-22T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2025-10-22T16:00:00Z,Family music subscription,Subscription
+65,Target,2025-10-23T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2025-10-24T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2025-10-24T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2025-10-25T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2025-10-25T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2025-10-26T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2025-10-27T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2025-10-27T19:00:00Z,Dinner,Food
+25,Bus Service,2025-10-28T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2025-10-28T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2025-10-29T16:00:00Z,New phone case,Shopping
+115,City Utilities,2025-10-30T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2025-10-30T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2025-10-31T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2025-10-31T13:00:00Z,Music subscription,Subscription
+100,Amazon,2025-11-01T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2025-11-02T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2025-11-02T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2025-11-03T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2025-11-03T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2025-11-04T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2025-11-05T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2025-11-05T12:30:00Z,Quick lunch,Food
+14,Uber,2025-11-06T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2025-11-06T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2025-11-07T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2025-11-08T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2025-11-08T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2025-11-09T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2025-11-09T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2025-11-10T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2025-11-10T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2025-11-11T09:10:00Z,Utility bill for November,Utilities
+4.5,Coffee Shop C,2025-11-11T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2025-11-12T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2025-11-12T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2025-11-13T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2025-11-14T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2025-11-14T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2025-11-15T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2025-11-15T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2025-11-16T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2025-11-16T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2025-11-17T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2025-11-18T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2025-11-18T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2025-11-19T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2025-11-19T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2025-11-20T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2025-11-21T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2025-11-21T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2025-11-22T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2025-11-22T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2025-11-23T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2025-11-23T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2025-11-24T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2025-11-24T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2025-11-25T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2025-11-26T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2025-11-26T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2025-11-27T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2025-11-27T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2025-11-28T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2025-11-29T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2025-11-29T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2025-11-30T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2025-11-30T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2025-12-01T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2025-12-02T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2025-12-02T14:00:00Z,Quick snack,Food
+20,Public Transport,2025-12-03T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2025-12-03T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2025-12-04T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2025-12-05T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2025-12-05T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2025-12-06T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2025-12-06T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2025-12-07T15:00:00Z,New headphones,Shopping
+115,City Utilities,2025-12-08T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2025-12-08T11:00:00Z,Morning smoothie,Food
+18,Uber,2025-12-09T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2025-12-09T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2025-12-10T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2025-12-11T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2025-12-11T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2025-12-12T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2025-12-12T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2025-12-13T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2025-12-14T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2025-12-14T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2025-12-15T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2025-12-15T16:00:00Z,Streaming subscription,Subscription
+65,Target,2025-12-16T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2025-12-17T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2025-12-17T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2025-12-18T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2025-12-18T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2025-12-19T16:00:00Z,New lamp,Shopping
+130,Electric Company,2025-12-20T09:00:00Z,Utility bill,Utilities
+7,Cafe,2025-12-20T11:00:00Z,Morning coffee,Food
+11,Uber,2025-12-21T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2025-12-21T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2025-12-22T10:00:00Z,Books,Shopping
+105,Water Bill,2025-12-23T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2025-12-23T12:00:00Z,Lunch,Food
+17,Bus Pass,2025-12-24T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2025-12-24T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2025-12-25T15:00:00Z,Groceries,Food
+125,Clothing Store,2025-12-26T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2025-12-27T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2025-12-27T19:00:00Z,Pizza,Food
+14,Taxi,2025-12-28T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2025-12-28T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2025-12-29T16:00:00Z,New curtains,Shopping
+115,Utilities,2025-12-30T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2025-12-30T10:00:00Z,Coffee,Food
+18.5,Metro,2025-12-31T08:00:00Z,Subway fare,Transport
+15.99,Netflix,2025-12-31T12:00:00Z,Monthly streaming service,Subscription
+75,Electronics,2026-01-01T15:00:00Z,Computer mouse,Shopping
+100,Gas Company,2026-01-02T09:00:00Z,Monthly gas bill,Utilities
+8.5,Restaurant,2026-01-02T19:00:00Z,Dinner,Food
+22,Bus Fare,2026-01-03T07:00:00Z,Round trip ticket,Transport
+10.99,Amazon Prime,2026-01-03T14:00:00Z,Subscription renewal,Subscription
+120,Clothing Store,2026-01-04T16:00:00Z,New jacket,Shopping
+130,Internet Bill,2026-01-05T09:00:00Z,Monthly fee,Utilities
+5.25,Bakery,2026-01-05T11:00:00Z,Pastries,Food
+13,Uber,2026-01-06T10:00:00Z,Ride to the mall,Transport
+8.99,Hulu,2026-01-06T13:00:00Z,Streaming service,Subscription
+60,Sporting Goods,2026-01-07T15:00:00Z,Running shorts,Shopping
+95,Water Bill,2026-01-08T09:00:00Z,Quarterly bill,Utilities
+3,Snack,2026-01-08T14:00:00Z,Chips and soda,Food
+19.5,Train,2026-01-09T08:00:00Z,Commuter ticket,Transport
+19.99,NYT Digital,2026-01-09T10:00:00Z,Online news subscription,Subscription
+70,Bookstore,2026-01-10T16:00:00Z,New books,Shopping
+140,Electricity,2026-01-11T09:00:00Z,Monthly bill,Utilities
+7.5,Smoothie Bar,2026-01-11T12:00:00Z,Morning smoothie,Food
+28,Bus,2026-01-12T07:30:00Z,Weekly pass,Transport
+15.99,Disney+,2026-01-12T11:00:00Z,Streaming service,Subscription
+110,Home Goods,2026-01-13T15:00:00Z,New throw pillows,Shopping
+80,Phone Bill,2026-01-14T09:00:00Z,Monthly service,Utilities
+4.5,Bakery,2026-01-14T14:00:00Z,Pastries,Food
+12,Cab,2026-01-15T08:00:00Z,Ride to the airport,Transport
+22.99,The Athletic,2026-01-15T12:00:00Z,Sports news subscription,Subscription
+90,Furniture Store,2026-01-16T16:00:00Z,Small bookshelf,Shopping
+115,Utilities,2026-01-17T09:00:00Z,Combined bill,Utilities
+6.5,Coffee Shop,2026-01-17T10:00:00Z,Morning coffee,Food
+20,Public Transport,2026-01-18T08:00:00Z,Weekly pass,Transport
+10.99,HBO Max,2026-01-18T12:00:00Z,Entertainment subscription,Subscription
+150,Electronics,2026-01-19T14:00:00Z,New laptop,Shopping
+100,Gas & Electric,2026-01-20T09:00:00Z,Combined utility bill,Utilities
+9.5,Food Truck,2026-01-20T13:00:00Z,Lunch from a food truck,Food
+17,Taxi,2026-01-21T11:00:00Z,Cab ride,Transport
+19.99,Apple Music,2026-01-21T16:00:00Z,Family music subscription,Subscription
+65,Target,2026-01-22T10:00:00Z,Groceries and some home goods,Shopping
+125,Internet Bill,2026-01-23T09:00:00Z,Monthly fee,Utilities
+7,Cafe,2026-01-23T14:00:00Z,Afternoon coffee,Food
+31,Train Services,2026-01-24T08:00:00Z,Round trip ticket,Transport
+16.99,Peacock,2026-01-24T12:00:00Z,TV streaming service,Subscription
+120,Clothing Store,2026-01-25T15:00:00Z,New sweater,Shopping
+90,Gas Bill,2026-01-26T09:00:00Z,Monthly gas charge,Utilities
+8,Restaurant,2026-01-26T19:00:00Z,Dinner,Food
+25,Bus Service,2026-01-27T07:30:00Z,Bus fare,Transport
+15.99,Netflix,2026-01-27T11:00:00Z,Streaming service,Subscription
+75,Electronics Store,2026-01-28T16:00:00Z,New phone case,Shopping
+115,City Utilities,2026-01-29T09:00:00Z,Combined water and trash bill,Utilities
+5.5,Snack Vending,2026-01-29T14:00:00Z,Quick snack,Food
+18.5,Metro Transit,2026-01-30T08:45:00Z,Subway fare,Transport
+12.99,Spotify Family,2026-01-30T13:00:00Z,Music subscription,Subscription
+100,Amazon,2026-01-31T11:15:00Z,Holiday shopping,Shopping
+140,Power Company,2026-02-01T09:30:00Z,Electricity bill,Utilities
+4.25,Corner Store,2026-02-01T14:00:00Z,Cold drink and chips,Food
+22,Public Transport,2026-02-02T07:40:00Z,Weekly pass,Transport
+8.99,Audible,2026-02-02T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2026-02-03T15:00:00Z,New sports gear,Shopping
+95,Internet Bill,2026-02-04T09:00:00Z,Monthly fee,Utilities
+10,Lunch Spot,2026-02-04T12:30:00Z,Quick lunch,Food
+14,Uber,2026-02-05T07:00:00Z,Morning ride,Transport
+19.99,NYT Digital,2026-02-05T10:00:00Z,Online news subscription,Subscription
+150,Department Store,2026-02-06T16:00:00Z,New kitchen appliance,Shopping
+110,Gas & Water,2026-02-07T09:00:00Z,Monthly utility payment,Utilities
+3.25,Bakery,2026-02-07T18:00:00Z,A loaf of fresh bread,Food
+15,Dunkin' Donuts,2026-02-08T09:00:00Z,Coffee and donuts for the team,Food
+12,Uber,2026-02-08T11:45:00Z,Ride to the doctor's office,Transport
+15.99,Netflix,2026-02-09T08:00:00Z,Monthly streaming service subscription,Subscription
+65.75,Online Retailer B,2026-02-09T14:20:00Z,New book and a pair of socks,Shopping
+80,Electricity Company,2026-02-10T09:10:00Z,Utility bill for February,Utilities
+4.5,Coffee Shop C,2026-02-10T16:05:00Z,Morning coffee and a croissant,Food
+22,City Bus Co.,2026-02-11T07:55:00Z,Monthly bus pass,Transport
+19.99,Spotify,2026-02-11T12:00:00Z,Premium music service,Subscription
+120.5,Restaurant D,2026-02-12T20:15:00Z,Dinner with friends,Food
+45,Gas Station E,2026-02-13T09:30:00Z,Fuel for the car,Transport
+35,Online Clothing Store,2026-02-13T15:45:00Z,New t-shirt and jeans,Shopping
+95,Water & Sewer Department,2026-02-14T11:00:00Z,Monthly water bill,Utilities
+3.25,Bakery F,2026-02-14T18:00:00Z,A loaf of fresh bread,Food
+28,Train Services,2026-02-15T08:10:00Z,Round trip ticket to the city center,Transport
+8.99,Hulu,2026-02-15T13:30:00Z,Streaming TV service,Subscription
+55,Bookstore G,2026-02-16T10:00:00Z,Two new novels,Shopping
+110,Internet Provider,2026-02-17T09:45:00Z,Internet service for the month,Utilities
+7.5,Local Cafe,2026-02-17T15:30:00Z,Coffee and a pastry,Food
+14,Taxi Service H,2026-02-18T09:05:00Z,Short taxi ride,Transport
+10.99,Amazon Prime,2026-02-18T16:00:00Z,Annual Prime subscription renewal,Subscription
+150,Department Store I,2026-02-19T11:20:00Z,New kitchen appliance,Shopping
+42.3,Corner Market,2026-02-20T09:00:00Z,Snacks and drinks for the road,Food
+18.5,Metro Transit,2026-02-20T17:30:00Z,Subway fare,Transport
+29.99,YouTube Premium,2026-02-21T08:00:00Z,Ad-free video subscription,Subscription
+88,Home Depot,2026-02-21T12:45:00Z,Hardware for a DIY project,Shopping
+75,Phone Company,2026-02-22T10:00:00Z,Monthly phone bill,Utilities
+6.5,Pizzeria,2026-02-22T19:00:00Z,A slice of pizza and a soda,Food
+31,Airport Shuttle,2026-02-23T06:00:00Z,Ride to the airport,Transport
+9.99,Audible,2026-02-23T11:00:00Z,Audiobook subscription,Subscription
+60,Sporting Goods,2026-02-24T14:30:00Z,Running shoes,Shopping
+130,Gas & Electric,2026-02-25T09:00:00Z,Combined utility bill,Utilities
+4,Deli,2026-02-25T12:00:00Z,Sandwich for lunch,Food
+17.5,Bus Pass Office,2026-02-26T08:30:00Z,Weekly bus pass,Transport
+14.99,NYT Digital,2026-02-26T10:00:00Z,Online newspaper subscription,Subscription
+90,Furniture Store,2026-02-27T16:00:00Z,Small side table,Shopping
+105,Water Bill Co.,2026-02-28T10:00:00Z,Quarterly water payment,Utilities
+16,Sushi Shop,2026-02-28T20:00:00Z,Takeout dinner,Food
+11.5,Uber,2026-03-01T08:45:00Z,Ride to work,Transport
+19.99,Apple Music,2026-03-01T13:00:00Z,Family music subscription,Subscription
+25,Online Art Store,2026-03-02T11:15:00Z,Digital art prints,Shopping
+85,Internet Service,2026-03-03T09:30:00Z,Monthly internet fee,Utilities
+5.5,Snack Vending,2026-03-03T14:00:00Z,Quick snack,Food
+20,Public Transport,2026-03-04T07:40:00Z,Weekly pass,Transport
+15.99,Disney+,2026-03-04T11:00:00Z,Monthly streaming service,Subscription
+125,Clothing Store,2026-03-05T16:00:00Z,New jacket,Shopping
+90,Gas Bill,2026-03-06T09:00:00Z,Monthly gas charge,Utilities
+10,Lunch Spot,2026-03-06T12:30:00Z,Quick lunch,Food
+33,Railroad Ticket,2026-03-07T07:00:00Z,Commuter train ticket,Transport
+22.99,The Athletic,2026-03-07T10:00:00Z,Sports news subscription,Subscription
+75,Electronics Store,2026-03-08T15:00:00Z,New headphones,Shopping
+115,City Utilities,2026-03-09T09:00:00Z,Combined water and trash bill,Utilities
+6.5,Smoothie Bar,2026-03-09T11:00:00Z,Morning smoothie,Food
+18,Uber,2026-03-10T10:00:00Z,Ride to the gym,Transport
+10.99,HBO Max,2026-03-10T12:00:00Z,Entertainment subscription,Subscription
+50,Etsy,2026-03-11T14:00:00Z,Handmade gift,Shopping
+140,Power Company,2026-03-12T09:00:00Z,Electricity bill,Utilities
+8,Local Bakery,2026-03-12T16:00:00Z,Afternoon snack,Food
+25,Bus Service,2026-03-13T07:30:00Z,Bus fare,Transport
+16.99,Peacock,2026-03-13T12:00:00Z,TV streaming service,Subscription
+100,Amazon,2026-03-14T15:00:00Z,Misc household items,Shopping
+110,Gas & Water,2026-03-15T09:00:00Z,Monthly utility payment,Utilities
+9.5,Food Truck,2026-03-15T13:00:00Z,Lunch from a food truck,Food
+15,Taxi,2026-03-16T11:00:00Z,Cab ride,Transport
+19.99,Apple TV+,2026-03-16T16:00:00Z,Streaming subscription,Subscription
+65,Target,2026-03-17T10:00:00Z,Groceries and some home goods,Shopping
+95,Internet Bill,2026-03-18T09:00:00Z,Monthly fee,Utilities
+4.25,Corner Store,2026-03-18T14:00:00Z,Cold drink and chips,Food
+28,Train Ticket,2026-03-19T08:00:00Z,Ticket for the metro,Transport
+12.99,Spotify Family,2026-03-19T12:00:00Z,Music subscription,Subscription
+70,Home Goods,2026-03-20T16:00:00Z,New lamp,Shopping
+130,Electric Company,2026-03-21T09:00:00Z,Utility bill,Utilities
+7,Cafe,2026-03-21T11:00:00Z,Morning coffee,Food
+11,Uber,2026-03-22T09:00:00Z,Short trip,Transport
+15.99,Hulu No Ads,2026-03-22T13:00:00Z,Streaming service,Subscription
+80,Bookstore,2026-03-23T10:00:00Z,Books,Shopping
+105,Water Bill,2026-03-24T09:00:00Z,Water and sewer,Utilities
+3.5,Deli,2026-03-24T12:00:00Z,Lunch,Food
+17,Bus Pass,2026-03-25T08:00:00Z,Weekly pass,Transport
+8.99,Audible,2026-03-25T11:00:00Z,Audiobook subscription,Subscription
+55,Grocery Store,2026-03-26T15:00:00Z,Groceries,Food
+125,Clothing Store,2026-03-27T10:00:00Z,New jeans,Shopping
+85,Internet Provider,2026-03-28T09:00:00Z,Monthly internet service,Utilities
+25,Pizzeria,2026-03-28T19:00:00Z,Pizza,Food
+14,Taxi,2026-03-29T11:00:00Z,Cab fare,Transport
+19.99,Spotify,2026-03-29T14:00:00Z,Premium music service,Subscription
+90,Home Decor,2026-03-30T16:00:00Z,New curtains,Shopping
+115,Utilities,2026-03-31T09:00:00Z,Combined bill,Utilities
+6,Coffee Shop,2026-03-31T10:00:00Z,Coffee,Food
+12.5,Local Cafe,2026-04-05T09:00:00Z,Coffee,Food
+28,Metro Train,2026-04-05T17:45:00Z,Commuter rail ticket,Transport
+19.99,Spotify,2026-04-06T12:00:00Z,Music subscription,Subscription
+85,H&M,2026-04-07T15:30:00Z,New clothes,Shopping
+110,Power Company,2026-04-08T09:00:00Z,Electric bill,Utilities
+8.5,Taco Bell,2026-04-12T19:00:00Z,Quick dinner,Food
+25,Uber,2026-04-13T09:15:00Z,Ride to airport,Transport
+10.99,Audible,2026-04-14T11:30:00Z,Audiobook subscription,Subscription
+75,Best Buy,2026-04-15T16:00:00Z,New headphones,Shopping
+95,Water & Sewer Dept,2026-04-16T10:30:00Z,Quarterly water bill,Utilities
+6.5,Vending Machine,2026-04-20T14:00:00Z,Snack and drink,Food
+11.5,Lyft,2026-04-21T08:45:00Z,Ride to bus station,Transport
+15.99,Disney+,2026-04-21T13:00:00Z,Streaming fee,Subscription
+150,Target,2026-04-22T10:00:00Z,Household goods,Shopping
+130,Gas & Electric,2026-04-23T09:00:00Z,Combined utility bill,Utilities
+9,Local Pizzeria,2026-04-27T20:00:00Z,Pizza slice,Food
+17,Public Bus Service,2026-04-28T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2026-04-28T14:00:00Z,Streaming service,Subscription
+95,Sephora,2026-04-29T14:30:00Z,Makeup and skincare,Shopping
+88,Waste Management,2026-04-30T09:00:00Z,Trash collection,Utilities
+8,Bakery,2026-05-05T09:00:00Z,Croissant and juice,Food
+20,Train Ticket,2026-05-06T08:00:00Z,Commuter ticket,Transport
+10.99,Netflix,2026-05-07T11:00:00Z,Subscription,Subscription
+90,Clothing Store,2026-05-08T14:00:00Z,New shirt,Shopping
+115,City Utilities,2026-05-09T10:00:00Z,Water and gas bill,Utilities
+7.5,Local Deli,2026-05-14T12:30:00Z,Lunch sandwich,Food
+15,Taxi Ride,2026-05-15T09:30:00Z,Trip to work,Transport
+15.99,Hulu,2026-05-16T13:00:00Z,Streaming service,Subscription
+130,Amazon,2026-05-17T11:00:00Z,New electronics,Shopping
+100,Internet Provider,2026-05-18T09:00:00Z,Monthly internet bill,Utilities
+6,Cafe,2026-05-23T11:00:00Z,Coffee and pastry,Food
+22,Bus Station,2026-05-24T07:00:00Z,Weekly bus pass,Transport
+22.99,The Athletic,2026-05-25T12:00:00Z,Sports news subscription,Subscription
+85,Bookstore,2026-05-26T15:00:00Z,New books and stationery,Shopping
+95,Gas & Electric,2026-05-27T09:00:00Z,Combined utility bill,Utilities
+9,Sandwich Shop,2026-06-01T12:00:00Z,Lunch sandwich,Food
+18,Uber,2026-06-02T08:30:00Z,Ride to office,Transport
+10.99,Audible,2026-06-03T14:00:00Z,Audiobook subscription,Subscription
+110,Electronics Store,2026-06-04T16:00:00Z,New charger and accessories,Shopping
+120,Phone Company,2026-06-05T09:00:00Z,Monthly phone bill,Utilities
+5.5,Vending Machine,2026-06-10T15:00:00Z,Snack and drink,Food
+25,Metro Pass,2026-06-11T08:00:00Z,Weekly travel pass,Transport
+15.99,Netflix,2026-06-12T12:00:00Z,Monthly subscription,Subscription
+150,Department Store,2026-06-13T16:00:00Z,New clothes and shoes,Shopping
+130,Electricity Company,2026-06-14T09:00:00Z,Electricity bill,Utilities
+12.5,Starbucks,2026-06-19T09:00:00Z,Coffee and pastry,Food
+17,Bus Fare,2026-06-20T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2026-06-21T14:00:00Z,Streaming service,Subscription
+95,Sports Store,2026-06-22T14:30:00Z,New running gear,Shopping
+88,Waste Management,2026-06-23T09:00:00Z,Trash collection service,Utilities
+6.5,Local Cafe,2026-06-28T11:00:00Z,Coffee and a scone,Food
+28,Train Services,2026-06-29T07:50:00Z,Commuter rail ticket,Transport
+10.99,Amazon Prime,2026-06-30T11:00:00Z,Annual Prime renewal,Subscription
+100,Amazon,2026-07-01T16:00:00Z,New pet supplies,Shopping
+130,Gas & Electric,2026-07-02T09:00:00Z,Combined utility bill,Utilities
+12.5,Local Cafe,2026-07-07T09:00:00Z,Morning coffee and a croissant,Food
+28,Metro Train,2026-07-07T17:45:00Z,Commuter rail ticket,Transport
+19.99,Spotify,2026-07-08T12:00:00Z,Premium music service,Subscription
+85,H&M,2026-07-09T15:30:00Z,New clothes for spring,Shopping
+110,Power Company,2026-07-10T09:00:00Z,Electric bill,Utilities
+8.5,Taco Bell,2026-07-14T19:00:00Z,Quick dinner,Food
+25,Uber,2026-07-15T09:15:00Z,Ride to the airport,Transport
+10.99,Audible,2026-07-16T11:30:00Z,Audiobook subscription,Subscription
+75,Best Buy,2026-07-17T16:00:00Z,New headphones,Shopping
+95,Water & Sewer Dept,2026-07-18T10:30:00Z,Quarterly water bill,Utilities
+6.5,Vending Machine,2026-07-22T14:00:00Z,Snack and a drink,Food
+11.5,Lyft,2026-07-23T08:45:00Z,Ride to the bus station,Transport
+15.99,Disney+,2026-07-23T13:00:00Z,Streaming service fee,Subscription
+150,Target,2026-07-24T10:00:00Z,Household goods and groceries,Shopping
+130,Gas & Electric,2026-07-25T09:00:00Z,Combined utility bill,Utilities
+9,Local Pizzeria,2026-07-29T20:00:00Z,Pizza slice and soda,Food
+17,Public Bus Service,2026-07-30T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2026-07-30T14:00:00Z,Streaming service,Subscription
+95,Sephora,2026-07-31T14:30:00Z,Makeup and skincare,Shopping
+88,Waste Management,2026-07-31T09:00:00Z,Trash collection service,Utilities
+8,Bakery,2026-08-05T09:00:00Z,Croissant and juice,Food
+20,Train Ticket,2026-08-06T08:00:00Z,Commuter ticket,Transport
+10.99,Netflix,2026-08-07T11:00:00Z,Subscription,Subscription
+90,Clothing Store,2026-08-08T14:00:00Z,New shirt,Shopping
+115,City Utilities,2026-08-09T10:00:00Z,Water and gas bill,Utilities
+7.5,Local Deli,2026-08-14T12:30:00Z,Lunch sandwich,Food
+15,Taxi Ride,2026-08-15T09:30:00Z,Trip to work,Transport
+15.99,Hulu,2026-08-16T13:00:00Z,Streaming service,Subscription
+130,Amazon,2026-08-17T11:00:00Z,New electronics,Shopping
+100,Internet Provider,2026-08-18T09:00:00Z,Monthly internet bill,Utilities
+6,Cafe,2026-08-23T11:00:00Z,Coffee and pastry,Food
+22,Bus Station,2026-08-24T07:00:00Z,Weekly bus pass,Transport
+22.99,The Athletic,2026-08-25T12:00:00Z,Sports news subscription,Subscription
+85,Bookstore,2026-08-26T15:00:00Z,New books and stationery,Shopping
+95,Gas & Electric,2026-08-27T09:00:00Z,Combined utility bill,Utilities
+9,Sandwich Shop,2026-09-01T12:00:00Z,Lunch sandwich,Food
+18,Uber,2026-09-02T08:30:00Z,Ride to office,Transport
+10.99,Audible,2026-09-03T14:00:00Z,Audiobook subscription,Subscription
+110,Electronics Store,2026-09-04T16:00:00Z,New charger and accessories,Shopping
+120,Phone Company,2026-09-05T09:00:00Z,Monthly phone bill,Utilities
+5.5,Vending Machine,2026-09-10T15:00:00Z,Snack and drink,Food
+25,Metro Pass,2026-09-11T08:00:00Z,Weekly travel pass,Transport
+15.99,Netflix,2026-09-12T12:00:00Z,Monthly subscription,Subscription
+150,Department Store,2026-09-13T16:00:00Z,New clothes and shoes,Shopping
+130,Electricity Company,2026-09-14T09:00:00Z,Electricity bill,Utilities
+12.5,Starbucks,2026-09-19T09:00:00Z,Coffee and pastry,Food
+17,Bus Fare,2026-09-20T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2026-09-21T14:00:00Z,Streaming service,Subscription
+95,Sports Store,2026-09-22T14:30:00Z,New running gear,Shopping
+88,Waste Management,2026-09-23T09:00:00Z,Trash collection service,Utilities
+6.5,Local Cafe,2026-09-28T11:00:00Z,Coffee and a scone,Food
+28,Train Services,2026-09-29T07:50:00Z,Commuter rail ticket,Transport
+10.99,Amazon Prime,2026-09-30T11:00:00Z,Annual Prime renewal,Subscription
+100,Amazon,2026-10-01T16:00:00Z,New pet supplies,Shopping
+130,Gas & Electric,2026-10-02T09:00:00Z,Combined utility bill,Utilities
+12.5,Local Cafe,2026-10-07T09:00:00Z,Morning coffee and a croissant,Food
+28,Metro Train,2026-10-07T17:45:00Z,Commuter rail ticket,Transport
+19.99,Spotify,2026-10-08T12:00:00Z,Premium music service,Subscription
+85,H&M,2026-10-09T15:30:00Z,New clothes for spring,Shopping
+110,Power Company,2026-10-10T09:00:00Z,Electric bill,Utilities
+8.5,Taco Bell,2026-10-14T19:00:00Z,Quick dinner,Food
+25,Uber,2026-10-15T09:15:00Z,Ride to the airport,Transport
+10.99,Audible,2026-10-16T11:30:00Z,Audiobook subscription,Subscription
+75,Best Buy,2026-10-17T16:00:00Z,New headphones,Shopping
+95,Water & Sewer Dept,2026-10-18T10:30:00Z,Quarterly water bill,Utilities
+6.5,Vending Machine,2026-10-22T14:00:00Z,Snack and a drink,Food
+11.5,Lyft,2026-10-23T08:45:00Z,Ride to the bus station,Transport
+15.99,Disney+,2026-10-23T13:00:00Z,Streaming service fee,Subscription
+150,Target,2026-10-24T10:00:00Z,Household goods and groceries,Shopping
+130,Gas & Electric,2026-10-25T09:00:00Z,Combined utility bill,Utilities
+9,Local Pizzeria,2026-10-29T20:00:00Z,Pizza slice and soda,Food
+17,Public Bus Service,2026-10-30T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2026-10-30T14:00:00Z,Streaming service,Subscription
+95,Sephora,2026-10-31T14:30:00Z,Makeup and skincare,Shopping
+88,Waste Management,2026-10-31T09:00:00Z,Trash collection service,Utilities
+8,Bakery,2026-11-05T09:00:00Z,Croissant and juice,Food
+20,Train Ticket,2026-11-06T08:00:00Z,Commuter ticket,Transport
+10.99,Netflix,2026-11-07T11:00:00Z,Subscription,Subscription
+90,Clothing Store,2026-11-08T14:00:00Z,New shirt,Shopping
+115,City Utilities,2026-11-09T10:00:00Z,Water and gas bill,Utilities
+7.5,Local Deli,2026-11-14T12:30:00Z,Lunch sandwich,Food
+15,Taxi Ride,2026-11-15T09:30:00Z,Trip to work,Transport
+15.99,Hulu,2026-11-16T13:00:00Z,Streaming service,Subscription
+130,Amazon,2026-11-17T11:00:00Z,New electronics,Shopping
+100,Internet Provider,2026-11-18T09:00:00Z,Monthly internet bill,Utilities
+6,Cafe,2026-11-23T11:00:00Z,Coffee and pastry,Food
+22,Bus Station,2026-11-24T07:00:00Z,Weekly bus pass,Transport
+22.99,The Athletic,2026-11-25T12:00:00Z,Sports news subscription,Subscription
+85,Bookstore,2026-11-26T15:00:00Z,New books and stationery,Shopping
+95,Gas & Electric,2026-11-27T09:00:00Z,Combined utility bill,Utilities
+9,Sandwich Shop,2026-12-02T12:00:00Z,Lunch sandwich,Food
+18,Uber,2026-12-03T08:30:00Z,Ride to office,Transport
+10.99,Audible,2026-12-04T14:00:00Z,Audiobook subscription,Subscription
+110,Electronics Store,2026-12-05T16:00:00Z,New charger and accessories,Shopping
+120,Phone Company,2026-12-06T09:00:00Z,Monthly phone bill,Utilities
+5.5,Vending Machine,2026-12-11T15:00:00Z,Snack and drink,Food
+25,Metro Pass,2026-12-12T08:00:00Z,Weekly travel pass,Transport
+15.99,Netflix,2026-12-13T12:00:00Z,Monthly subscription,Subscription
+150,Department Store,2026-12-14T16:00:00Z,New clothes and shoes,Shopping
+130,Electricity Company,2026-12-15T09:00:00Z,Electricity bill,Utilities
+12.5,Starbucks,2026-12-20T09:00:00Z,Coffee and pastry,Food
+17,Bus Fare,2026-12-21T07:30:00Z,Weekly bus pass,Transport
+16.99,Peacock,2026-12-22T14:00:00Z,Streaming service,Subscription
+95,Sports Store,2026-12-23T14:30:00Z,New running gear,Shopping
+88,Waste Management,2026-12-24T09:00:00Z,Trash collection service,Utilities
+6.5,Local Cafe,2026-12-29T11:00:00Z,Coffee and a scone,Food
+28,Train Services,2026-12-30T07:50:00Z,Commuter rail ticket,Transport
+10.99,Amazon Prime,2026-12-31T11:00:00Z,Annual Prime renewal,Subscription

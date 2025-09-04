@@ -1,0 +1,6 @@
+description,predicted,confidence,feedback,actual,timestamp
+Starbucks coffee,Food,0.9138064740539731,correct,Food,2025-09-03 16:00:23
+Public transport fare,Transport,0.7649472409982799,correct,Transport,2025-09-03 16:00:31
+Monthly Spotify subscription,Subscription,0.8596812649151773,correct,Subscription,2025-09-03 16:00:40
+Dinner at local restaurant,Food,0.8847802837616128,correct,Food,2025-09-03 16:01:07
+Netflix monthly fee,Utilities,0.8710359061748308,wrong,Subscription,2025-09-03 16:01:45

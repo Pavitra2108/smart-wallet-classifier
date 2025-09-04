@@ -1,0 +1,16 @@
+description,predicted,confidence,feedback,actual,timestamp
+electricity bills,Utilities,0.8350556666983622,correct,Utilities,2025-09-03 15:54:22
+quick lunch meal,Food,0.9699668395263332,correct,Food,2025-09-03 15:54:35
+monthly subscription,Subscription,0.8596812649151773,correct,Subscription,2025-09-03 15:54:49
+grab ride,Transport,0.9225777175655449,correct,Transport,2025-09-03 15:54:55
+groceries,Shopping,0.4862891409341191,correct,Shopping,2025-09-03 15:55:19
+Monthly bus pass,Transport,0.9310576178533849,correct,Transport,2025-09-03 15:55:26
+Ride to the airport,Transport,0.9573965800638978,correct,Transport,2025-09-03 15:55:48
+Morning snacks,Food,0.8277565356508297,correct,Food,2025-09-03 15:56:04
+Chatgpt premimum fees,Food,0.2047930283224401,wrong,Subscription,2025-09-03 15:56:38
+Premium upgrade,Subscription,0.7634181171501324,correct,Subscription,2025-09-03 15:56:57
+Youtube fees,Food,0.2047930283224401,wrong,Subscription,2025-09-03 15:57:20
+cab fare,Transport,0.9600879214114013,correct,Transport,2025-09-03 15:57:48
+utility bills,Utilities,0.9036840611978159,correct,Utilities,2025-09-03 15:57:59
+water fees,Utilities,0.8803241182420356,correct,Utilities,2025-09-03 15:58:04
+house rental,Food,0.2047930283224401,wrong,Utilities,2025-09-03 15:58:38
