@@ -24,7 +24,7 @@ CATEGORY_COLORS = {
 
 @st.cache_resource
 def load_ai_model():
-    model_path = "smart-wallet-app/wallet_ai/transaction_classifier.pkl"
+    model_path = "wallet_ai/transaction_classifier.pkl"
     
     try:
         if not os.path.exists(model_path):
@@ -117,32 +117,6 @@ def create_pie_chart(df):
 
 def main():
     """Main application"""
-
-    # Hide Streamlit's default anchor links in headers
-    st.markdown("""
-        <style>
-        .stApp > header {visibility: hidden;}
-        .stApp > main > div > div > div > div > section > div {padding-top: 0rem;}
-        h1, h2, h3 {
-            position: relative;
-        }
-        h1:hover .anchor, h2:hover .anchor, h3:hover .anchor {
-            display: none !important;
-        }
-        .element-container:has(h1) .anchor,
-        .element-container:has(h2) .anchor,
-        .element-container:has(h3) .anchor {
-            display: none !important;
-        }
-        /* Clean header styling */
-        .main-header {
-            text-align: center;
-            padding: 1rem 0;
-            border-bottom: 2px solid #f0f2f6;
-            margin-bottom: 2rem;
-        }
-        </style>
-    """, unsafe_allow_html=True)
     
     # Initialize session state
     initialize_session_state()
@@ -163,7 +137,7 @@ def main():
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.subheader("📝 New Transaction")
+        st.subheader(" New Transaction")
         
         # Transaction input form
         with st.form("transaction_form", clear_on_submit=True):
@@ -215,10 +189,10 @@ def main():
                 
                 # Show prediction result
                 color = CATEGORY_COLORS.get(category, '#999999')
-                st.success(f"✅ **{category}** ({confidence:.1%} confidence)")
+                st.success(f" **{category}** ({confidence:.1%} confidence)")
                 
             else:
-                st.warning("⚠️ Please enter a transaction description")
+                st.warning(" Please enter a transaction description")
     
     with col2:
         st.subheader(" Quick Stats")
@@ -245,7 +219,7 @@ def main():
         table_col, chart_col = st.columns([3, 2])
         
         with table_col:
-            st.subheader("📋 Transaction History")
+            st.subheader(" Transaction History")
             
             # Create display dataframe
             df = pd.DataFrame(st.session_state.transactions)
@@ -263,12 +237,12 @@ def main():
             )
             
             # Clear history button
-            if st.button("🗑️ Clear History", type="secondary"):
+            if st.button(" Clear History", type="secondary"):
                 st.session_state.transactions = []
                 st.rerun()
         
         with chart_col:
-            st.subheader("📊 Spending Breakdown")
+            st.subheader(" Spending Breakdown")
             
             # Create and display pie chart
             _, df = create_transaction_summary()
@@ -291,11 +265,10 @@ def main():
                 )
     else:
         # Empty state
-        st.info("💡 **Get Started:** Enter your first transaction above to see analytics and spending patterns!")
+        st.info(" **Get Started:** Enter your first transaction above to see analytics and spending patterns!")
     
     # Footer
     st.markdown("---")
 
 if __name__ == "__main__":
-
     main()
